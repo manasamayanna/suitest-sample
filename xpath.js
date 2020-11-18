@@ -1,0 +1,1 @@
+exports.alpha_xpath = '//td[contains(text(),\'char\')]'
